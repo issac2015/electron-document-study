@@ -1,5 +1,4 @@
 # electron-document-study
-this repository is used for learning electron.
 
 [electron](http://electron.atom.io/) 中文学习文档的整理，使用mkdocs。
 
