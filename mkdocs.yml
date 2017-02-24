@@ -1,0 +1,90 @@
+site_name: 认真是一种态度
+pages:
+  - 努力学习: index.md
+  - project项目:
+    - README导读: project/README.md
+    - CONTRIBUTING贡献: project/CONTRIBUTING.md
+
+  - tutorial向导:
+    - quick-start快速入门: tutorial/quick-start.md
+    - application-distribution: tutorial/application-distribution.md
+    - application-packaging: tutorial/application-packaging.md
+    - debugging-main-process: tutorial/debugging-main-process.md
+    - debugging-main-process-node-inspector: tutorial/debugging-main-process-node-inspector.md
+    - debugging-main-process-vscode: tutorial/debugging-main-process-vscode.md
+    - desktop-environment-integration: tutorial/desktop-environment-integration.md
+    - devtools-extension: tutorial/devtools-extension.md
+    - electron-versioning: tutorial/electron-versioning.md
+    - mac-app-store-submission-guide: tutorial/mac-app-store-submission-guide.md
+    - offscreen-rendering: tutorial/offscreen-rendering.md
+    - online-offline-events: tutorial/online-offline-events.md
+    - repl: tutorial/repl.md
+    - security: tutorial/security.md
+    - supported-platforms: tutorial/supported-platforms.md
+    - testing-on-headless-ci: tutorial/testing-on-headless-ci.md
+    - using-native-node-modules: tutorial/using-native-node-modules.md
+    - using-pepper-flash-plugin: tutorial/using-pepper-flash-plugin.md
+    - using-selenium-and-webdriver: tutorial/using-selenium-and-webdriver.md
+    - using-widevine-cdm-plugin: tutorial/using-widevine-cdm-plugin.md
+    - windows-store-guide: tutorial/windows-store-guide.md
+
+
+  - API简介:
+    - accelerator: api/accelerator.md
+    - app: api/app.md
+    - auto-updater: api/auto-updater.md
+    - browser-window: api/browser-window.md
+    - chrome-command-line-switches: api/chrome-command-line-switches.md
+    - clipboard: api/clipboard.md
+    - content-tracing: api/content-tracing.md
+    - crash-reporter: api/crash-reporter.md
+    - desktop-capturer: api/desktop-capturer.md
+    - dialog: api/dialog.md
+    - download-item: api/download-item.md
+    - environment-variables: api/environment-variables.md
+    - file-object: api/file-object.md
+    - frameless-window: api/frameless-window.md
+    - global-shortcut: api/global-shortcut.md
+    - ipc-main: api/ipc-main.md
+    - ipc-main-process: api/ipc-main-process.md
+    - ipc-renderer: api/ipc-renderer.md
+    - menu: api/menu.md
+    - menu-item: api/menu-item.md
+    - native-image: api/native-image.md
+    - net: api/net.md
+    - power-monitor: api/power-monitor.md
+    - power-save-blocker: api/power-save-blocker.md
+    - process: api/process.md
+    - protocol: api/protocol.md
+    - remote: api/remote.md
+    - screen: api/screen.md
+    - session: api/session.md
+    - shell: api/shell.md
+    - synopsis: api/synopsis.md
+    - system-preferences: api/system-preferences.md
+    - tray: api/tray.md
+    - web-contents: api/web-contents.md
+    - web-frame: api/web-frame.md
+    - webview-tag: api/webview-tag.md
+    - window-open: api/window-open.md
+
+  - development发展过程:
+    - atom-shell-vs-node-webkit: development/atom-shell-vs-node-webkit.md
+    - build-instructions-linux: development/build-instructions-linux.md
+    - build-instructions-osx: development/build-instructions-osx.md
+    - build-instructions-windows: development/build-instructions-windows.md
+    - build-system-overview: development/build-system-overview.md
+    - clang-format: development/clang-format.md
+    - coding-style: development/coding-style.md
+    - debugging-instructions-macos: development/debugging-instructions-macos.md
+    - debug-instructions-windows: development/debug-instructions-windows.md
+    - setting-up-symbol-server: development/setting-up-symbol-server.md
+    - source-code-directory-structure: development/source-code-directory-structure.md
+
+
+  - faq常见问题:
+    - electron-faq: faq/electron-faq.md
+
+theme: readthedocs
+use_directory_urls: false
+
