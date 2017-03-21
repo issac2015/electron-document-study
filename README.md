@@ -2,7 +2,7 @@
 
 [electron](http://electron.atom.io/) 中文学习文档的整理，使用mkdocs。
 
-##搭建
+## 搭建
 
 使用mkdocs需要安装Python，使用pip 来安装mkdocs
 
