@@ -15,8 +15,12 @@
 
 ## 截图
 
+### 快速入门：
+
 <img src="/images/img-1.png" style="display: block;margin: auto;width: 450px;"/>
 
+### 桌面环境集成：
 
+<img src="/images/img-2.png" style="display: block;margin: auto;width: 450px;"/>
 
 
