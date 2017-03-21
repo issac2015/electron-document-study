@@ -13,3 +13,10 @@
 
 访问项目文档的静态网页[http://localhost:13808](http://localhost:13808)。
 
+## 截图
+
+<img src="/images/img-1.png" style="display: block;margin: auto;width: 450px;"/>
+
+
+
+
